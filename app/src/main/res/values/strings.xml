@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Приложение для знакомств</string>
+    <string name="data">Мои данные</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="favourites">Избранное</string>
+    <string name="close">Закрыть</string>
+    <string name="like">Понравилось?</string>
+    <string name="hello">Напиши приветствие</string>
+</resources>
